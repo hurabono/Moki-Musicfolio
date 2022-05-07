@@ -5,7 +5,7 @@ Multimokia Music portfolio
 
 Tailwindcss/react.js
 
-demo coming soon
+demo is coming soon
 
 ## Available Scripts
 
