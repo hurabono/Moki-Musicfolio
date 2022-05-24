@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Multimokia Music portfolio
 
+**goal**
+1) this website is able to enjoy her music
+2) get to know about her
+3) her photo gellary 
+4) commision contact
+
 # composer moki / web cover
 
 ![cover](https://user-images.githubusercontent.com/61058084/170085980-b4a83261-ba53-4559-8d34-cd2bb837f6cf.png)
