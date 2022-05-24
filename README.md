@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Multimokia Music portfolio
+reactjs / Tailwind css / adobe illustrator
 
 **goal**
 1) this website is able to enjoy her music
