@@ -3,9 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Multimokia Music portfolio
 
-Tailwindcss/react.js
+# composer moki / web cover
 
-demo is coming soon
+![cover](https://user-images.githubusercontent.com/61058084/170085980-b4a83261-ba53-4559-8d34-cd2bb837f6cf.png)
+
 
 ## Available Scripts
 
